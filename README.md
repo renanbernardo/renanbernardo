@@ -5,10 +5,15 @@
 </br>
 
 ## Hello there! 👋
+
 <p align="center">
   <a href="https://www.linkedin.com/in/renan-bernardo-dev/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renan-bernardo-dev/" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/RenanBrnrd/">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/RenanBrnrd" alt="Twitter" />
+  </a>
+  <a href="mailto:renan.brnrd@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:renan.brnrd@gmail.com" alt="Gmail" />
   </a>  
 </p>
@@ -35,12 +40,12 @@
 </br>
 
 <p align="center">
-<a href="https://github.com/renanbernardo">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=renanbernardo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-</a>
-<a href="https://github.com/renanbernardo">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=renanbernardo&layout=compact&theme=algolia"/>
-</a>
+  <a href="https://github.com/renanbernardo">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=renanbernardo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/renanbernardo">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=renanbernardo&layout=compact&theme=algolia"/>
+  </a>
 </p>
 
 <!--
