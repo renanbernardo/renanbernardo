@@ -1,10 +1,16 @@
 <img align="right" width="200px" style="margin-top:-20px" src="./images/octocat-1656592809234.png">
-<h1 align="left">Renan Bernardo</h1>
+<h1 align="left">Renan Bernardo 🤓</h1>
 
 </br>
 </br>
 
 ## Hello there! 👋
+I'm a Software Developer since 2013 and currently working as a .NET Developer.
+My main focus is Web development and Microsoft technologies.
+
+I love taking online courses, reading articles, and watching videos about software engineering and architecture, programming, best practices and careers.
+
+</br>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/renan-bernardo-dev/">
@@ -17,6 +23,14 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:renan.brnrd@gmail.com" alt="Gmail" />
   </a>  
 </p>
+
+### Education
+- 📚 Technologist in Business Management (2020)
+- 📚 Technologist in Information Technology Management (2013)
+- 📚 Computer Technician (2009)
+
+</br>
+
 
 ## Languages, Tools & Technologies 🖥️ 🛠
 
