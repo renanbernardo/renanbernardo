@@ -1,14 +1,16 @@
-<img align="right" width="200px" style="margin-top:-20px" src="./images/octocat-1656592809234.png">
+<img align="right" width="200px" src="./images/octocat-1656592809234.png">
 <h1 align="left">Renan Bernardo 🤓</h1>
 
 </br>
 </br>
 
-## Hello there! 👋
-I'm a Software Developer since 2013 and currently working as a .NET Developer.
-My main focus is Web development and Microsoft technologies.
+## Olá!! 👋
 
-I love taking online courses, reading articles, and watching videos about software engineering and architecture, programming, best practices and careers.
+Desenvolvedor de Software desde 2013.
+Meu foco é desenvolvimento Web e tecnologias Microsoft.
+Atualmente estou trabalhando como Desenvolvedor .NET.
+
+Adoro realizar cursos online, ler artigos e ver vídeos sobre programação, engenharia e arquitetura de software, melhores práticas e carreira.
 
 </br>
 
@@ -24,15 +26,27 @@ I love taking online courses, reading articles, and watching videos about softwa
   </a>  
 </p>
 
-### Education
-- 📚 Technologist in Business Management (2020)
-- 📚 Technologist in Information Technology Management (2013)
-- 📚 Computer Technician (2009)
+### Educação
+- 📚 Gestão Empresarial - FATEC (2020)
+- 📚 Gestão da Tecnologia da Informação - FATEC (2013)
+- 📚 Técnico em Informática - ETEC (2009)
 
 </br>
 
+<p align="left">
+  <a href="https://github.com/renanbernardo">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=renanbernardo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  </a>
+</p>
+<p align="right">
+  <a href="https://github.com/renanbernardo">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=renanbernardo&layout=compact&theme=algolia"/>
+  </a>
+</p>
 
-## Languages, Tools & Technologies 🖥️ 🛠
+</br>
+
+## Linguagens, Ferramentas e Tecnologias 🖥️ 🛠
 
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" title=".NET" width="30" /></code> 
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" title=".NET Core" width="30" /></code> 
@@ -50,17 +64,6 @@ I love taking online courses, reading articles, and watching videos about softwa
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" width="30" /></code> 
 
 ![dotnet](https://img.shields.io/badge/-.NET-05122A?style=flat&color=blue)&nbsp;![dotnetCore](https://img.shields.io/badge/-.NetCore-05122A?style=flat&color=blue)&nbsp;![aspnet](https://img.shields.io/badge/-AspNet-05122A?style=flat&color=blue)&nbsp;![csharp](https://img.shields.io/badge/-CSharp-05122A?style=flat&color=blue)&nbsp;![typescript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&color=blue)&nbsp;![angular](https://img.shields.io/badge/-Angular-05122A?style=flat&color=blue)&nbsp;![ionic](https://img.shields.io/badge/-Ionic-05122A?style=flat&color=blue)&nbsp;![sqlserver](https://img.shields.io/badge/-SqlServer-05122A?style=flat&color=yellow)&nbsp;![oracle](https://img.shields.io/badge/-Oracle-05122A?style=flat&color=yellow)&nbsp;![entityframework](https://img.shields.io/badge/-EntityFramework-05122A?style=flat&color=orange)&nbsp;![azure](https://img.shields.io/badge/-Azure-05122A?style=flat&color=green)&nbsp;![github](https://img.shields.io/badge/-GitHub-05122A?style=flat&color=green)&nbsp;![docker](https://img.shields.io/badge/-Docker-05122A?style=flat&color=red)&nbsp;![git](https://img.shields.io/badge/-Git-05122A?style=flat&color=red)&nbsp;![visualstudio](https://img.shields.io/badge/-VisualStudio-05122A?style=flat&color=purple)&nbsp;![vscode](https://img.shields.io/badge/-VSCode-05122A?style=flat&color=purple)  
-
-</br>
-
-<p align="center">
-  <a href="https://github.com/renanbernardo">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=renanbernardo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/renanbernardo">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=renanbernardo&layout=compact&theme=algolia"/>
-  </a>
-</p>
 
 <!--
 **renanbernardo/renanbernardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
