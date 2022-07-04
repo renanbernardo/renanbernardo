@@ -1,8 +1,6 @@
 <img align="right" width="200px" src="./images/octocat-1656592809234.png">
 <h1 align="left">Renan Bernardo 🤓</h1>
 
-</br>
-
 ## Olá!! 👋
 
 Desenvolvedor de Software desde 2013.
