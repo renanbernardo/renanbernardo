@@ -2,12 +2,13 @@
 <h1 align="left">Renan Bernardo 🤓</h1>
 
 </br>
-</br>
 
 ## Olá!! 👋
 
 Desenvolvedor de Software desde 2013.
+
 Meu foco é desenvolvimento Web e tecnologias Microsoft.
+
 Atualmente estou trabalhando como Desenvolvedor .NET.
 
 Adoro realizar cursos online, ler artigos e ver vídeos sobre programação, engenharia e arquitetura de software, melhores práticas e carreira.
@@ -33,16 +34,12 @@ Adoro realizar cursos online, ler artigos e ver vídeos sobre programação, eng
 
 </br>
 
-<p align="left">
-  <a href="https://github.com/renanbernardo">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=renanbernardo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  </a>
-</p>
-<p align="right">
-  <a href="https://github.com/renanbernardo">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=renanbernardo&layout=compact&theme=algolia"/>
-  </a>
-</p>
+<a href="https://github.com/renanbernardo">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=renanbernardo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+</a>
+<a href="https://github.com/renanbernardo">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=renanbernardo&layout=compact&theme=algolia"/>
+</a>
 
 </br>
 
