@@ -1,4 +1,4 @@
-<h1 align="left">Renan Bernardo</h1>
+# Renan Bernardo
 
 ## Olá, mundo! 👋🤓
 
@@ -9,8 +9,6 @@ Meu foco é desenvolvimento Web e tecnologias Microsoft, como .NET, C#, SQL Serv
 Atualmente estou trabalhando como Desenvolvedor .NET.
 
 Gosto de ler artigos, realizar cursos e assistir vídeos sobre desenvolvimento, arquitetura de software, melhores práticas e carreira. Para fugir um pouco das telas, livros e podcasts são bem-vindos.
-
-</br>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/renan-bernardo-dev/">
@@ -24,21 +22,8 @@ Gosto de ler artigos, realizar cursos e assistir vídeos sobre desenvolvimento, 
   </a>  
 </p>
 
-### Formação Acadêmica
-- 📚 Gestão Empresarial - FATEC (2020)
-- 📚 Gestão da Tecnologia da Informação - FATEC (2013)
-- 📚 Técnico em Informática - ETEC (2009)
-
-</br>
-
-<a href="https://github.com/renanbernardo">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=renanbernardo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-</a>
-<a href="https://github.com/renanbernardo">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=renanbernardo&layout=compact&theme=algolia"/>
-</a>
-
-</br>
+<a href="https://github.com/renanbernardo"><img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=renanbernardo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/></a>
+<a href="https://github.com/renanbernardo"><img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=renanbernardo&layout=compact&theme=algolia"/></a>
 
 ## Linguagens, Ferramentas e Tecnologias 🖥️ 🛠
 
@@ -48,7 +33,7 @@ Gosto de ler artigos, realizar cursos e assistir vídeos sobre desenvolvimento, 
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" width="30" /></code> 
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" title="Angular" width="30" /></code> 
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" title="Ionic" width="30" /></code> 
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="SQL Server" width="30" /></code> 
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="SQL Server" width="30" /></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" title="Oracle" width="30" /></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" title="Azure" width="30" /></code> 
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" width="30" /></code>
@@ -58,6 +43,11 @@ Gosto de ler artigos, realizar cursos e assistir vídeos sobre desenvolvimento, 
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" width="30" /></code> 
 
 ![dotnet](https://img.shields.io/badge/-.NET-05122A?style=flat&color=blue)&nbsp;![dotnetCore](https://img.shields.io/badge/-.NetCore-05122A?style=flat&color=blue)&nbsp;![aspnet](https://img.shields.io/badge/-AspNet-05122A?style=flat&color=blue)&nbsp;![csharp](https://img.shields.io/badge/-CSharp-05122A?style=flat&color=blue)&nbsp;![typescript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&color=blue)&nbsp;![angular](https://img.shields.io/badge/-Angular-05122A?style=flat&color=blue)&nbsp;![ionic](https://img.shields.io/badge/-Ionic-05122A?style=flat&color=blue)&nbsp;![sqlserver](https://img.shields.io/badge/-SqlServer-05122A?style=flat&color=yellow)&nbsp;![oracle](https://img.shields.io/badge/-Oracle-05122A?style=flat&color=yellow)&nbsp;![entityframework](https://img.shields.io/badge/-EntityFramework-05122A?style=flat&color=orange)&nbsp;![azure](https://img.shields.io/badge/-Azure-05122A?style=flat&color=green)&nbsp;![github](https://img.shields.io/badge/-GitHub-05122A?style=flat&color=green)&nbsp;![docker](https://img.shields.io/badge/-Docker-05122A?style=flat&color=red)&nbsp;![git](https://img.shields.io/badge/-Git-05122A?style=flat&color=red)&nbsp;![visualstudio](https://img.shields.io/badge/-VisualStudio-05122A?style=flat&color=purple)&nbsp;![vscode](https://img.shields.io/badge/-VSCode-05122A?style=flat&color=purple)  
+
+## Formação Acadêmica
+- 📚 Gestão Empresarial - FATEC (2020)
+- 📚 Gestão da Tecnologia da Informação - FATEC (2013)
+- 📚 Técnico em Informática - ETEC (2009)
 
 <!--
 **renanbernardo/renanbernardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
