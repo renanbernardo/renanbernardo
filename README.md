@@ -1,15 +1,14 @@
-<img align="right" width="200px" src="./images/octocat-1656592809234.png">
-<h1 align="left">Renan Bernardo 🤓</h1>
+<h1 align="left">Renan Bernardo</h1>
 
-## Olá!! 👋
+## Olá, mundo! 👋🤓
 
 Desenvolvedor de Software desde 2013.
 
-Meu foco é desenvolvimento Web e tecnologias Microsoft.
+Meu foco é desenvolvimento Web e tecnologias Microsoft, como .NET, C#, SQL Server, Azure e Visual Studio.
 
 Atualmente estou trabalhando como Desenvolvedor .NET.
 
-Adoro realizar cursos online, ler artigos e ver vídeos sobre programação, engenharia e arquitetura de software, melhores práticas e carreira.
+Gosto de ler artigos, realizar cursos e assistir vídeos sobre desenvolvimento, arquitetura de software, melhores práticas e carreira. Para fugir um pouco das telas, livros e podcasts são bem-vindos.
 
 </br>
 
@@ -25,7 +24,7 @@ Adoro realizar cursos online, ler artigos e ver vídeos sobre programação, eng
   </a>  
 </p>
 
-### Educação
+### Formação Acadêmica
 - 📚 Gestão Empresarial - FATEC (2020)
 - 📚 Gestão da Tecnologia da Informação - FATEC (2013)
 - 📚 Técnico em Informática - ETEC (2009)
