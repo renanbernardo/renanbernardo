@@ -4,11 +4,12 @@
 
 Desenvolvedor de Software desde 2013.
 
-Meu foco é desenvolvimento Web e tecnologias Microsoft, como .NET, C#, SQL Server, Azure e Visual Studio.
+Meu foco é desenvolvimento Web, backend e tecnologias Microsoft, como .NET, C#, SQL Server, Blazor, MAUI e Azure. 
+Também me interesso bastante por TypeScript, Angular e Flutter.
 
-Atualmente estou trabalhando como Desenvolvedor .NET.
+Gosto de estudar e aprender com cursos, artigos e vídeos no YouTube. Para fugir um pouco das telas, livros e podcasts são bem-vindos.
 
-Gosto de ler artigos, realizar cursos e assistir vídeos sobre desenvolvimento, arquitetura de software, melhores práticas e carreira. Para fugir um pouco das telas, livros e podcasts são bem-vindos.
+🔭 Atualmente trabalho como Desenvolvedor .NET Sênior na CSP Tech (Rio de Janeiro).
 
 <p align="center">
   <a href="https://www.linkedin.com/in/renan-bernardo-dev/">
@@ -26,21 +27,6 @@ Gosto de ler artigos, realizar cursos e assistir vídeos sobre desenvolvimento, 
 <a href="https://github.com/renanbernardo"><img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=renanbernardo&layout=compact&theme=algolia"/></a>
 
 ## Linguagens, Ferramentas e Tecnologias 🖥️ 🛠
-
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" title=".NET" width="30" /></code> 
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" title=".NET Core" width="30" /></code> 
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#" width="30" /></code> 
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" width="30" /></code> 
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" title="Angular" width="30" /></code> 
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" title="Ionic" width="30" /></code> 
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="SQL Server" width="30" /></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" title="Oracle" width="30" /></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" title="Azure" width="30" /></code> 
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" width="30" /></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" width="30" /></code> 
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="30" /></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio" width="30"  /></code> 
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" width="30" /></code> 
 
 ![dotnet](https://img.shields.io/badge/-.NET-05122A?style=flat&color=blue)&nbsp;![dotnetCore](https://img.shields.io/badge/-.NetCore-05122A?style=flat&color=blue)&nbsp;![aspnet](https://img.shields.io/badge/-AspNet-05122A?style=flat&color=blue)&nbsp;![csharp](https://img.shields.io/badge/-CSharp-05122A?style=flat&color=blue)&nbsp;![typescript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&color=blue)&nbsp;![angular](https://img.shields.io/badge/-Angular-05122A?style=flat&color=blue)&nbsp;![ionic](https://img.shields.io/badge/-Ionic-05122A?style=flat&color=blue)&nbsp;![sqlserver](https://img.shields.io/badge/-SqlServer-05122A?style=flat&color=yellow)&nbsp;![oracle](https://img.shields.io/badge/-Oracle-05122A?style=flat&color=yellow)&nbsp;![entityframework](https://img.shields.io/badge/-EntityFramework-05122A?style=flat&color=orange)&nbsp;![azure](https://img.shields.io/badge/-Azure-05122A?style=flat&color=green)&nbsp;![github](https://img.shields.io/badge/-GitHub-05122A?style=flat&color=green)&nbsp;![docker](https://img.shields.io/badge/-Docker-05122A?style=flat&color=red)&nbsp;![git](https://img.shields.io/badge/-Git-05122A?style=flat&color=red)&nbsp;![visualstudio](https://img.shields.io/badge/-VisualStudio-05122A?style=flat&color=purple)&nbsp;![vscode](https://img.shields.io/badge/-VSCode-05122A?style=flat&color=purple)  
 
