@@ -22,25 +22,10 @@ Gosto de estudar e aprender com cursos, artigos e vídeos no YouTube. Para fugir
 
 ## Linguagens, Ferramentas e Tecnologias 🖥️ 🛠
 
-![dotnet](https://img.shields.io/badge/-.NET-05122A?style=flat&color=blue)&nbsp;![dotnetCore](https://img.shields.io/badge/-.NetCore-05122A?style=flat&color=blue)&nbsp;![aspnet](https://img.shields.io/badge/-AspNet-05122A?style=flat&color=blue)&nbsp;![csharp](https://img.shields.io/badge/-CSharp-05122A?style=flat&color=blue)&nbsp;![typescript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&color=blue)&nbsp;![angular](https://img.shields.io/badge/-Angular-05122A?style=flat&color=blue)&nbsp;![ionic](https://img.shields.io/badge/-Ionic-05122A?style=flat&color=blue)&nbsp;![sqlserver](https://img.shields.io/badge/-SqlServer-05122A?style=flat&color=yellow)&nbsp;![oracle](https://img.shields.io/badge/-Oracle-05122A?style=flat&color=yellow)&nbsp;![entityframework](https://img.shields.io/badge/-EntityFramework-05122A?style=flat&color=orange)&nbsp;![azure](https://img.shields.io/badge/-Azure-05122A?style=flat&color=green)&nbsp;![github](https://img.shields.io/badge/-GitHub-05122A?style=flat&color=green)&nbsp;![docker](https://img.shields.io/badge/-Docker-05122A?style=flat&color=red)&nbsp;![git](https://img.shields.io/badge/-Git-05122A?style=flat&color=red)
+![dotnet](https://img.shields.io/badge/-.NET-05122A?style=flat&color=blue)&nbsp;![dotnetCore](https://img.shields.io/badge/-.NetCore-05122A?style=flat&color=blue)&nbsp;![aspnet](https://img.shields.io/badge/-AspNet-05122A?style=flat&color=blue)&nbsp;![csharp](https://img.shields.io/badge/-CSharp-05122A?style=flat&color=blue)&nbsp;![typescript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&color=blue)&nbsp;![nodejs](https://img.shields.io/badge/-CSharp-05122A?style=flat&color=blue)&nbsp;![angular](https://img.shields.io/badge/-Angular-05122A?style=flat&color=blue)&nbsp;![ionic](https://img.shields.io/badge/-Ionic-05122A?style=flat&color=blue)&nbsp;![sqlserver](https://img.shields.io/badge/-SqlServer-05122A?style=flat&color=yellow)&nbsp;![oracle](https://img.shields.io/badge/-Oracle-05122A?style=flat&color=yellow)&nbsp;![entityframework](https://img.shields.io/badge/-EntityFramework-05122A?style=flat&color=orange)&nbsp;![azure](https://img.shields.io/badge/-Azure-05122A?style=flat&color=green)&nbsp;![github](https://img.shields.io/badge/-GitHub-05122A?style=flat&color=green)&nbsp;![docker](https://img.shields.io/badge/-Docker-05122A?style=flat&color=red)&nbsp;![git](https://img.shields.io/badge/-Git-05122A?style=flat&color=red)
 
 ## Formação Acadêmica
 - 📚 Engenhraria de Software - UNICESUMAR (cursando)
 - 📚 Gestão Empresarial - FATEC (2020)
 - 📚 Gestão da Tecnologia da Informação - FATEC (2013)
 - 📚 Técnico em Informática - ETEC (2009)
-
-<!--
-**renanbernardo/renanbernardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
