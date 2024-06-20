@@ -9,8 +9,6 @@ Também me interesso bastante por TypeScript, Angular e Flutter.
 
 Gosto de estudar e aprender com cursos, artigos e vídeos no YouTube. Para fugir um pouco das telas, livros e podcasts são bem-vindos.
 
-🔭 Atualmente trabalho como Desenvolvedor .NET Sênior na CSP Tech (Rio de Janeiro).
-
 <p align="center">
   <a href="https://www.linkedin.com/in/renan-bernardo-dev/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renan-bernardo-dev/" alt="LinkedIn" />
