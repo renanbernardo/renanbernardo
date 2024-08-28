@@ -5,9 +5,9 @@
 Desenvolvedor de Software desde 2013.
 
 Meu foco é desenvolvimento Web, backend e tecnologias Microsoft, como .NET, C#, SQL Server, Blazor, MAUI e Azure. 
-Também me interesso bastante por TypeScript, Angular e Flutter.
+Também me interesso bastante por TypeScript e Angular.
 
-Gosto de estudar e aprender com cursos, artigos e vídeos no YouTube. Para fugir um pouco das telas, livros e podcasts são bem-vindos.
+Gosto de estudar e aprender com cursos, artigos e vídeos. Para fugir um pouco das telas, livros e podcasts são bem-vindos.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/renan-bernardo-dev/">
